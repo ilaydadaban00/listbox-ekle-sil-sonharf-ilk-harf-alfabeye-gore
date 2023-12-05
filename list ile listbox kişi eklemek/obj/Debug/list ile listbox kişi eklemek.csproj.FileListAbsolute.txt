@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\list ile listbox kişi eklemek\list ile listbox kişi eklemek\bin\Debug\list ile listbox kişi eklemek.exe.config
+C:\Users\User\source\repos\list ile listbox kişi eklemek\list ile listbox kişi eklemek\bin\Debug\list ile listbox kişi eklemek.exe
+C:\Users\User\source\repos\list ile listbox kişi eklemek\list ile listbox kişi eklemek\bin\Debug\list ile listbox kişi eklemek.pdb
+C:\Users\User\source\repos\list ile listbox kişi eklemek\list ile listbox kişi eklemek\obj\Debug\list ile listbox kişi eklemek.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\list ile listbox kişi eklemek\list ile listbox kişi eklemek\obj\Debug\list ile listbox kişi eklemek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\list ile listbox kişi eklemek\list ile listbox kişi eklemek\obj\Debug\list_ile_listbox_kişi_eklemek.Form1.resources
+C:\Users\User\source\repos\list ile listbox kişi eklemek\list ile listbox kişi eklemek\obj\Debug\list_ile_listbox_kişi_eklemek.Properties.Resources.resources
+C:\Users\User\source\repos\list ile listbox kişi eklemek\list ile listbox kişi eklemek\obj\Debug\list ile listbox kişi eklemek.csproj.GenerateResource.cache
+C:\Users\User\source\repos\list ile listbox kişi eklemek\list ile listbox kişi eklemek\obj\Debug\list ile listbox kişi eklemek.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\list ile listbox kişi eklemek\list ile listbox kişi eklemek\obj\Debug\list ile listbox kişi eklemek.exe
+C:\Users\User\source\repos\list ile listbox kişi eklemek\list ile listbox kişi eklemek\obj\Debug\list ile listbox kişi eklemek.pdb
